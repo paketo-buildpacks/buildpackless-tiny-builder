@@ -1,5 +1,11 @@
 # Paketo Buildpackless Tiny Builder
 
+## ⚠️ This repository is archived. No further releases will be made! ⚠️
+
+## Use the [Paketo Jammy Tiny Buildpackless Builder](https://github.com/paketo-buildpacks/builder-jammy-buildpackless-tiny) instead.
+
+---
+
 ## `paketobuildpacks/builder:buildpackless-tiny`
 
 This builder uses the [Paketo Tiny Stack](https://github.com/paketo-buildpacks/tiny-stack-release) (bionic build image, distroless-like run image)
